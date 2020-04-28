@@ -28,20 +28,20 @@ Desenvolvido com:
 
 ## Backend
 
-1 - Entre na pasta <code>cd backend</code>
-2 - Execute o comando <code>yarn</code> para instalar as dependências;
-3 - Execute o comando <code>yarn dev</code> para iniciar o servidor.
+1 - Entre na pasta <code>cd backend</code> <br>
+2 - Execute o comando <code>yarn</code> para instalar as dependências; <br>
+3 - Execute o comando <code>yarn dev</code> para iniciar o servidor. <br>
 
 ## Frontend
 
-1 - Entre na pasta web <code>cd web</code>
-2 - Execute o comando <code>yarn</code> para instalar as dependências;
-3 - Execute o comando <code>yarn start</code> para iniciar a aplicação;
-
+1 - Entre na pasta web <code>cd web</code> <br>
+2 - Execute o comando <code>yarn</code> para instalar as dependências; <br>
+3 - Execute o comando <code>yarn start</code> para iniciar a aplicação; <br>
+ 
 ## Mobile
 
-1 - Entre na pasta mobile
-2 - Execute o comando <code>yarn</code> para instalar as dependências;
-3 - Caso esteja usando emulador do Android, execute o comando <code>react-native start</code> em um terminal separado, caso esteja no IOS, vá para o próximo passo;
-4 - Execute o comando <code>react-native run-android</code> ou <code>react-native run-ios</code> para iniciar o app no emulador;
+1 - Entre na pasta mobile <br>
+2 - Execute o comando <code>yarn</code> para instalar as dependências; <br>
+3 - Caso esteja usando emulador do Android, execute o comando <code>react-native start</code> em um terminal separado, caso esteja no IOS, vá para o próximo passo; <br>
+4 - Execute o comando <code>react-native run-android</code> ou <code>react-native run-ios</code> para iniciar o app no emulador; <br>
 
